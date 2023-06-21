@@ -1,4 +1,8 @@
+![OCR](https://github.com/Akash-Chandrashekar24/BizCardX-Extracting_Business_Card_Data_with_OCR/assets/121113381/bc9b9529-2d32-494b-a254-1be7a1c30654)
+
+
 # BizCardX-Extracting_Business_Card_Data_with_OCR
+
 
 ## What is EasyOCR?
 
@@ -34,9 +38,9 @@
    
       pip install [Name of the library]
 
-- Execute the **“BizCardX_main.py”** using the streamlit run command.
+- Execute the **“BizCardX_Project.py”** using the streamlit run command.
 
-      streamlit run BizCardX_main.py
+      streamlit run BizCardX_Project.py
 
 - A webpage is displayed in browser, I have created the app with three menu options namely **HOME, UPLOAD & EXTRACT, MODIFY** where user has the option to upload the respective Business Card whose information has to be **extracted, stored, modified or deleted** if needed.
 
